@@ -13,11 +13,13 @@ I'm a Frontend developer | React | Nextjs
 - Learning new web technologies.
 
 ## Frontend
--HTML, CSS, JAVASCRIPT, REACT, REDUX, CSS LIBRARIES, SASS, Typescript, Nexjs, Material UI,
+- HTML, CSS, JAVASCRIPT, REACT, REDUX, CSS LIBRARIES, SASS, Typescript, Nexjs, Material UI,
 
 ## Backend
--Familiar with - MONGODB, EXPRESS, NODE, TYPESCRIPT
+- Familiar with - MONGODB, EXPRESS, NODE, TYPESCRIPT
 
+## Languages and Tools:
+- ![html](image.jpg)
 
  
 
