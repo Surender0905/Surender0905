@@ -13,15 +13,15 @@ I'm a Frontend developer | React | Nextjs
 - Learning new web technologies.
 
 ## Frontend
-- HTML, CSS, JAVASCRIPT, REACT, REDUX, CSS LIBRARIES, SASS, Typescript, Nexjs, Material UI,
+- HTML, CSS, JAVASCRIPT, REACT, REDUX, CSS LIBRARIES, SASS, Typescript, Next js, Material UI,
 
 ## Backend
 - Familiar with - MONGODB, EXPRESS, NODE, TYPESCRIPT
 
 ## Languages and Tools:
-![html](image.jpg) ![css](image.jpg) ![javascript](image.jpg) ![react js](image.jpg) ![Next js](image.jpg)
+![html](image.jpg)  ![css](image.jpg)  ![javascript](image.jpg)  ![react js](image.jpg)  ![Next js](image.jpg)
 
-![git]() ![typescript](image.jpg) ![node js](image.jpg) ![mongo db](image.jpg) ![redux](image.jpg)
+![git](image.jpg) ![typescript](image.jpg)  ![node js](image.jpg)  ![mongo db](image.jpg)  ![redux](image.jpg)
 
  
 
