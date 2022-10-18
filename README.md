@@ -21,7 +21,7 @@ I'm a Frontend developer | React | Nextjs
 ## Languages and Tools:
 ![html](./html.png)      ![css](./css-3.png)         ![javascript](./js.png)      ![react js](./physics.png)      ![Next js](./next.png)
 
-![git](./git.png)      ![typescript](./typescript)     ![node js](./node.png)     ![mongo db](./md.png)         ![redux](./redux.png)
+![git](./git.png)      ![typescript](./typescript.png)     ![node js](./node.png)     ![mongo db](./md.png)         ![redux](./redux.png)
 
  
 
