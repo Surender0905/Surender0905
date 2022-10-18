@@ -19,9 +19,9 @@ I'm a Frontend developer | React | Nextjs
 - Familiar with - MONGODB, EXPRESS, NODE, TYPESCRIPT
 
 ## Languages and Tools:
-![html](./html.png)  ![css](image.jpg)         ![javascript](image.jpg)  ![react js](./react.png)  ![Next js](./next.png)
+![html](./html.png)  ![css](./css-3.png)         ![javascript](./js.png)  ![react js](./physics.png)  ![Next js](./next.png)
 
-![git](image.jpg)   ![typescript](image.jpg)  ![node js](image.jpg)  ![mongo db](./monogodb.png)  ![redux](image.jpg)
+![git](./git.png)   ![typescript](./typescript)  ![node js](./node.png)  ![mongo db](./md.png)  ![redux](./redux.png)
 
  
 
