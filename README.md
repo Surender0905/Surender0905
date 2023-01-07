@@ -2,7 +2,7 @@
 
 # Hey there, I'm Surender Pratap Singh👋
 
-I'm a Frontend developer | React | Nextjs | Micro-Frontend
+I'm a Frontend developer | React | Nextjs | Micro-Frontend |Type-script
 
 I'm currently learning MERN Stack
 
