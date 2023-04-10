@@ -6,6 +6,8 @@ I'm a Frontend developer | Reactjs | Redux | Redux-Saga | Nextjs | GraphQL | Mic
 
 Creating Project on MERN Stack
 
+Learning React Native...
+
 ---
 
 ## Talking about Personal Stuffs:
