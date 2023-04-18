@@ -2,7 +2,7 @@
 
 # Hey there, I'm Surender Pratap Singh👋
 
-I'm a Frontend developer | Reactjs | Redux | Redux-Saga | Nextjs | Vuejs | GraphQL | Micro-Frontend | Type-Script
+I'm a Frontend developer | Reactjs | Redux | Redux-toolkit | Redux-Saga | Nextjs | Vuejs | GraphQL | Micro-Frontend | Type-Script
 
 Creating Project on MERN Stack
 
