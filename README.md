@@ -4,7 +4,7 @@
 
 I'm a Frontend developer | Reactjs | Redux | Redux-toolkit | Redux-Saga | Nextjs | GraphQL | Micro-Frontend | Type-Script
 
-Creating Project on MERN Stack
+Backend- Node js | Express js
 
 Learning React Native...
 
