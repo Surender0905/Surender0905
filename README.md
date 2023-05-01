@@ -17,7 +17,7 @@ Learning React Native...
 - Learning new web technologies.
 
 ## Frontend
-- HTML, CSS, JAVASCRIPT, REACT, REDUX, CSS LIBRARIES, SASS, Typescript, Next js, Material UI,
+- HTML, CSS, JAVASCRIPT, REACT, REDUX, REDUX TOOLKIT, RTK QUERY, REACT QUERY, CSS LIBRARIES, SASS, Typescript, Next js, Material UI,
 
 ## Backend
 - Familiar with - MONGODB, EXPRESS, NODE, TYPESCRIPT
