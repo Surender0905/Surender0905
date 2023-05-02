@@ -4,7 +4,7 @@
 
 I'm a Frontend developer | Reactjs | Redux | Redux-toolkit | RTK Query | react query | Redux-Saga | Nextjs | GraphQL | Micro-Frontend | Type-Script
 
-Backend- Node js | Express js
+Backend- Node js | Express js | MongoDb
 
 Learning React Native...
 
