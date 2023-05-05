@@ -2,7 +2,7 @@
 
 # Hey there, I'm Surender Pratap Singh👋
 
-I'm a Frontend developer | Reactjs | Redux | Redux-toolkit | RTK Query | react query | Redux-Saga | Nextjs | GraphQL | Micro-Frontend | Type-Script
+I'm a Frontend developer | Reactjs | Redux | Redux-toolkit | RTK Query | react query | Redux-Saga | Nextjs | vuejs | GraphQL | Micro-Frontend | Type-Script
 
 Backend- Node js | Express js | MongoDb
 
