@@ -6,7 +6,7 @@ I'm a Frontend developer | Reactjs | Redux | Redux-toolkit | RTK Query | react q
 
 Backend- MongoDb | Express | ReactJs | Nodejs
 
-Creating React Native Project...
+
 
 ---
 
