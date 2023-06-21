@@ -20,7 +20,7 @@ Backend- MongoDb | Express | ReactJs | Nodejs | MySql
 - HTML, CSS, JAVASCRIPT, REACT, REDUX, REDUX TOOLKIT, RTK QUERY, REACT QUERY, Tailwind , SASS, Typescript, Next js, Material UI,
 
 ## Backend
-- MONGODB, EXPRESS, NODE, websocket, docker
+- MONGODB, EXPRESS, NODE, Websocket, Docker
 
 ## Languages and Tools:
 ![html](./html.png) &nbsp;      ![css](./css-3.png) &nbsp;        ![javascript](./js.png) &nbsp;     ![react js](./physics.png)  &nbsp;    ![Next js](./next.png)&nbsp; ![git](./git.png) &nbsp;     ![typescript](./typescript.png) &nbsp;    ![node js](./node.png)&nbsp;     ![mongo db](./md.png)  &nbsp;       ![redux](./redux.png)
