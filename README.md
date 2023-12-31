@@ -6,6 +6,8 @@ I'm a Frontend developer | Reactjs | Redux | Redux-toolkit | RTK Query | react q
 
 Backend- MongoDb | Express | Nodejs | MySql | Redis | Docker
 
+Learning [Rust](https://www.rust-lang.org/)
+
 
 
 ---
