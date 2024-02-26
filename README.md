@@ -4,7 +4,7 @@
 
 I'm a Frontend developer | Reactjs | Redux | Redux-toolkit | RTK Query | react query | Redux-Saga | Nextjs | GraphQL | Micro-Frontend | Type-Script | Socket.io.client | webRTC
 
-Backend- MongoDb | Express | Nodejs | socket.io | MySql | Redis | Docker
+Backend- MongoDb | Express | Nodejs | Python | socket.io | MySql | Redis | Docker
 
 Learning [Golang](https://go.dev/learn/)
 
@@ -22,7 +22,7 @@ Learning [Golang](https://go.dev/learn/)
 - HTML, CSS, JAVASCRIPT, REACT, REDUX, REDUX TOOLKIT, RTK QUERY, REACT QUERY, Tailwind , SASS, Typescript, Next js, Material UI,
 
 ## Backend
-- MONGODB, EXPRESS, NODE, MySql, Websocket, Docker
+- MONGODB, EXPRESS, NODE, MySql, Python ,Websocket, Docker
 
 ## Languages and Tools:
 ![html](./html.png) &nbsp;      ![css](./css-3.png) &nbsp;        ![javascript](./js.png) &nbsp;     ![react js](./physics.png)  &nbsp;    ![Next js](./next.png)&nbsp; ![git](./git.png) &nbsp;     ![typescript](./typescript.png) &nbsp;    ![node js](./node.png)&nbsp;     ![mongo db](./md.png)  &nbsp;       ![redux](./redux.png)
