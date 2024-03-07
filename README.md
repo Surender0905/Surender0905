@@ -4,7 +4,7 @@
 
 I'm a Frontend developer | Reactjs | Redux | Redux-toolkit | RTK Query | react query | Redux-Saga | Nextjs | GraphQL | Micro-Frontend | Type-Script | Socket.io.client | webRTC
 
-Backend- MongoDb | Express | Nodejs | Python | socket.io | MySql | Redis | Docker
+Backend- MongoDb | Express | Nodejs | Python | socket.io | MySql | Redis | Docker | Prisma
 
 Learning [Golang](https://go.dev/learn/)
 
