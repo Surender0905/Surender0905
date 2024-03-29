@@ -19,7 +19,7 @@ Learning [Golang](https://go.dev/learn/)
 - Learning new web technologies.
 
 ## Frontend
-- HTML, CSS, JAVASCRIPT, REACT, REDUX, REDUX TOOLKIT, RTK QUERY, REACT QUERY, Tailwind , SASS, Typescript, Next js, Material UI,
+- HTML, CSS, JAVASCRIPT, REACT, REDUX, REDUX TOOLKIT, RTK QUERY, REACT QUERY, Tailwind , SASS, Typescript, Next js, Material UI,Gsap, framer motion, locomotive js
 
 ## Backend
 - MONGODB, EXPRESS, NODE, MySql, Python ,Websocket, Docker
