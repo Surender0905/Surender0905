@@ -2,7 +2,7 @@
 
 # Hey there, I'm Surender Pratap Singh👋
 
-I'm a Frontend developer | Reactjs | Redux | Redux-toolkit | RTK Query | react query | Redux-Saga | Nextjs | GraphQL| Type-Script | Socket.io.client | webRTC
+I'm a Frontend developer | Reactjs |React Native | Redux | Redux-toolkit | RTK Query | react query | Redux-Saga | Nextjs | GraphQL| Type-Script | Socket.io.client | webRTC
 
 Backend- MongoDb | Express | Nestjs | Nodejs | Python | socket.io | MySql | Redis | Docker | Prisma
 
