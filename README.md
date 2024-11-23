@@ -6,6 +6,8 @@ I'm a Frontend developer | Reactjs |React Native | Redux | Redux-toolkit | RTK Q
 
 Backend- MongoDb | Express | Nestjs | Nodejs | Python | socket.io | MySql | Redis | Docker | Prisma |sqlite
 
+Devops- Aws, Docker, Jenkins, Ngnix
+
 Learning [Golang](https://go.dev/learn/)
 
 
