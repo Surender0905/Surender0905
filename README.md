@@ -24,7 +24,7 @@ Learning [Golang](https://go.dev/learn/)
 - HTML, CSS, JAVASCRIPT, REACT, REDUX, REDUX TOOLKIT, RTK QUERY, REACT QUERY, Tailwind , SASS, Typescript, Next js, Material UI,Gsap, framer motion, locomotive js
 
 ## Backend
-- MONGODB, EXPRESS, NODE, MySql, Python ,Websocket, Docker, Jenkins
+- MONGODB, EXPRESS, NODE, MySql, Python ,Websocket, Docker, Jenkins, Aws
 
 ## Languages and Tools:
 ![html](./html.png) &nbsp;      ![css](./css-3.png) &nbsp;        ![javascript](./js.png) &nbsp;     ![react js](./physics.png)  &nbsp;    ![Next js](./next.png)&nbsp; ![git](./git.png) &nbsp;     ![typescript](./typescript.png) &nbsp;    ![node js](./node.png)&nbsp;     ![mongo db](./md.png)  &nbsp;       ![redux](./redux.png)
