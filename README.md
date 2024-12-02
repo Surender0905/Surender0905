@@ -4,7 +4,7 @@
 
 I'm a Frontend developer | Reactjs |React Native | Redux | Redux-toolkit | RTK Query | react query | Redux-Saga | Nextjs | GraphQL| Type-Script | Socket.io.client | webRTC
 
-Backend- MongoDb | Express | Nestjs | Nodejs | Python | socket.io | MySql | Redis | Docker | Prisma |sqlite
+Backend- MongoDb | Express | Nestjs | Nodejs | Python | socket.io | MySql | Postgre | Redis | Docker | Prisma | sqlite
 
 Devops- Aws, Docker, Jenkins, Ngnix, K8s
 
