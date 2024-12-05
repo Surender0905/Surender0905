@@ -8,7 +8,7 @@ Frontend- Reactjs |React Native | Redux | Redux-toolkit | RTK Query | react quer
 
 Backend- MongoDb | Express | Nestjs | Nodejs | Python | socket.io | MySql | Postgre | Redis | Docker | Prisma | sqlite
 
-Devops- Aws, Docker, Jenkins, Ngnix, K8s
+Devops- Aws, Docker, Docker-hub, Jenkins, Ngnix, K8s
 
 Learning [Golang](https://go.dev/learn/)
 
