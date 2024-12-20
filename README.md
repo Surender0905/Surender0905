@@ -6,11 +6,11 @@ I'm a FullStack developer
 
 Frontend- Reactjs | Angularjs| Vuejs |React Native | Redux | Redux-toolkit | RTK Query | react query | Redux-Saga | Nextjs | GraphQL| Type-Script | Socket.io.client | webRTC
 
-Backend- MongoDb | Express | Nestjs | Nodejs | Flask | Python | socket.io | MySql | Postgre | Redis | Docker | Prisma | sqlite
+Backend- MongoDb | Express | Nestjs | Nodejs | Flask | Python | Go | socket.io | MySql | Postgre | Redis | Docker | Prisma | sqlite
 
 Devops- Linux| Aws, Docker, Docker-hub, Jenkins, Ngnix, K8s
 
-Learning [Golang](https://go.dev/learn/)
+Learning [Java](https://dev.java/learn/)
 
 
 
