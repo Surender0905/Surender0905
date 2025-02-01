@@ -6,7 +6,7 @@ I'm a FullStack developer
 
 Frontend- Reactjs | Angularjs| Vuejs |React Native | Redux | Redux-toolkit | RTK Query | react query | Redux-Saga | Nextjs | GraphQL| Type-Script | Socket.io.client | webRTC
 
-Backend- MongoDb | Express | Nestjs | Nodejs | Flask | Python | Go | Fiber | socket.io | MySql | Postgre | Redis | Docker | Prisma | sqlite | microservices | rabbitmq | kafka
+Backend- MongoDb | Express | Nestjs | Nodejs | Flask | Python | Go | Fiber | socket.io | MySql | Postgre | Redis | Docker | Prisma | sqlite | microservices | rabbitmq | kafka |Bullmq
 
 Devops- Linux, github action, Aws, Docker, Docker-hub, Jenkins, Ngnix, K8s ,pm2
 
