@@ -8,7 +8,7 @@ Frontend- Reactjs | Vuejs |React Native | Redux | Redux-toolkit | RTK Query | re
 
 Backend- MongoDb | Express | Nestjs | Nodejs | Flask | Python | socket.io | MySql | Postgre | Redis | Docker | Prisma | sqlite | microservices | rabbitmq |Bullmq
 
-Devops- Linux, github action, Aws, Docker, Docker-hub, Jenkins, Ngnix, K8s ,pm2
+Devops- Linux, github action, Aws, Docker, Docker-hub, Jenkins, Ngnix,pm2
 
 Learning [Java](https://dev.java/learn/)
 
