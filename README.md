@@ -4,7 +4,7 @@
 
 I'm a FullStack developer 
 
-Frontend- Reactjs | Vuejs |React Native | Redux | Redux-toolkit | RTK Query | react query | Redux-Saga | Nextjs | Type-Script | Socket.io.client 
+Frontend- Reactjs | Vuejs |React Native | Redux | Redux-toolkit | RTK Query | React query | Redux-Saga | Nextjs | Type-Script | Socket.io.client 
 
 Backend- MongoDb | Express | Nestjs | Nodejs | Flask | Python | Java | Spring Boot | socket.io | MySql | Postgre | Redis | Docker | Prisma | microservices | rabbitmq | kafka
 
