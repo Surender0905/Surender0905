@@ -2,7 +2,7 @@
 
 # Hey there, I'm Surender Pratap Singh👋
 
-I'm a FullStack developer. 
+I'm a FullStack developer(MERN). 
 
 Frontend- Reactjs | Vuejs |React Native | Redux | Redux-toolkit | RTK Query | React query | Redux-Saga | Nextjs | Type-Script | Socket.io.client 
 
